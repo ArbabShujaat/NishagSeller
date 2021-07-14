@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1077107094872",
+    "project_id": "nisah-app-5fcc1",
+    "storage_bucket": "nisah-app-5fcc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077107094872:android:d2cfde2b8fda7821a0a12d",
+        "android_client_info": {
+          "package_name": "com.nisah.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077107094872-ir09v8mtk02bludc6qu5op0bn4p953e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoN5K4yIGRKzl9T3fa5yQ73RB2KCW4Kak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077107094872-ir09v8mtk02bludc6qu5op0bn4p953e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077107094872:android:b2f401a4f50763eba0a12d",
+        "android_client_info": {
+          "package_name": "com.nisah.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077107094872-ir09v8mtk02bludc6qu5op0bn4p953e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoN5K4yIGRKzl9T3fa5yQ73RB2KCW4Kak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077107094872-ir09v8mtk02bludc6qu5op0bn4p953e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
